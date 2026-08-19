@@ -23,8 +23,8 @@
 
 <div align="center">
 
-*[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b62ada1-b09d-4125-b0ac-5327283fc309" />
-]*
+*<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/cdde954c-b23a-4315-ac1c-941aaeb6b0ef" />
+*
 
 </div>
 
