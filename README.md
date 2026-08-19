@@ -23,7 +23,8 @@
 
 <div align="center">
 
-*[Add a screenshot or GIF here of the app correctly identifying a car — this is the single most valuable thing you can put at the top of this README]*
+*[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b62ada1-b09d-4125-b0ac-5327283fc309" />
+]*
 
 </div>
 
